@@ -2,138 +2,96 @@
 
 # PREETHI MENDON
 
-### Building AI-Powered & Full-Stack Applications
+### Full Stack Developer • AI Enthusiast
 
-Java • React.js • FastAPI • Machine Learning • Docker
+Building intelligent applications with Java, React.js, FastAPI, and Machine Learning.
 
 <p>
-<a href="mailto:preethimendon15@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/preethi-mendon">
-<img src="https://img.shields.io/badge/LinkedIn-Preethi_Mendon-blue?style=flat-square&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/preethi_mendon/">
-<img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=flat-square&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/preethimendon15">
-<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=flat-square&logo=hackerrank"/>
-</a>
-
+  <a href="mailto:preethimendon15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/preethi-mendon">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/preethi_mendon/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/preethimendon15">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## Engineering Focus
+## About
 
-```java
-public class PreethiMendon {
+Information Science Engineering student passionate about software engineering, AI, and building products that solve real-world problems.
 
-    String role = "Software Developer";
-    
-    String[] interests = {
-        "Full Stack Development",
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Backend Engineering",
-        "Cloud & DevOps"
-    };
+Currently exploring:
 
-    String[] technologies = {
-        "Java",
-        "React.js",
-        "FastAPI",
-        "MySQL",
-        "MongoDB",
-        "Docker",
-        "Linux"
-    };
-
-    String currentGoal =
-        "Building impactful software and becoming a strong engineer";
-}
-```
+- Full Stack Development
+- Machine Learning
+- Artificial Intelligence
+- Backend Engineering
+- Cloud & DevOps
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,react,nodejs,fastapi,mysql,mongodb,docker,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,react,fastapi,nodejs,mysql,mongodb,docker,linux,git,github,vscode" />
 </p>
 
 ---
 
-## Featured Work
+## Featured Projects
 
-### Smart Agriculture System
+<a href="https://github.com/PreethiMendon/smart-agriculture-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=smart-agriculture-system&theme=github_dark&hide_border=true" />
+</a>
 
-Machine Learning based crop recommendation platform using OCR, FastAPI, React.js and environmental analysis.
+<a href="https://github.com/PreethiMendon/Email-Spam-Detector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=Email-Spam-Detector&theme=github_dark&hide_border=true" />
+</a>
 
-🔗 https://github.com/PreethiMendon/smart-agriculture-system
+<br><br>
 
----
+<a href="https://github.com/PreethiMendon/privacy-notes-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=privacy-notes-app&theme=github_dark&hide_border=true" />
+</a>
 
-### Email Spam Detector
-
-Machine Learning system that classifies emails as spam or legitimate messages.
-
-🔗 https://github.com/PreethiMendon/Email-Spam-Detector
-
----
-
-### Privacy Notes App
-
-Secure note-taking application focused on privacy and data protection.
-
-🔗 https://github.com/PreethiMendon/privacy-notes-app
+<a href="https://github.com/PreethiMendon/online-code-editor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=online-code-editor&theme=github_dark&hide_border=true" />
+</a>
 
 ---
 
-### Online Code Editor
-
-Web-based code editor supporting writing and execution of code directly in the browser.
-
-🔗 https://github.com/PreethiMendon/online-code-editor
-
----
-
-## GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PreethiMendon&show_icons=true&theme=github_dark&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethiMendon&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PreethiMendon&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## Current Mission
+## Current Focus
 
-- Building production-ready projects
-- Strengthening Data Structures & Algorithms
-- Exploring Machine Learning applications
-- Learning scalable backend architecture
-- Contributing to open-source projects
-
----
-
-## Achievements
-
-🏆 XYPHERIA National Level Hackathon Participant
-
-📜 NPTEL Programming in Java
-
-📜 AI for Beginners
+- Building production-ready applications
+- Strengthening DSA and problem-solving
+- Learning scalable backend systems
+- Exploring AI-powered products
 
 ---
 
-<div align="center">
+## Let's Connect
 
-### "Code. Build. Learn. Repeat."
+📧 preethimendon15@gmail.com
 
-</div>
+🔗 LinkedIn: www.linkedin.com/in/preethi-mendon
+
+💻 LeetCode: leetcode.com/u/preethi_mendon
+
+🏆 HackerRank: hackerrank.com/profile/preethimendon15
