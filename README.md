@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Preethi Mendon</h1>
+<h1 align="center"> Preethi Mendon</h1>
 
 <h3 align="center">
 Aspiring Software Engineer | Java Developer | Full Stack Enthusiast
@@ -123,19 +123,7 @@ Computer Vision and OCR-powered system for intelligent house color visualization
 ### 🤖 Mental Wellness Bot
 AI chatbot designed to provide personalized mental wellness support.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PreethiMendon&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethiMendon&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -143,23 +131,7 @@ AI chatbot designed to provide personalized mental wellness support.
 <img src="https://streak-stats.demolab.com?user=PreethiMendon&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PreethiMendon&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PreethiMendon&theme=tokyo-night"/>
-</p>
-
----
 
 ## ✍️ Random Dev Quote
 
