@@ -1,97 +1,176 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Preethi Mendon</h1>
 
-# PREETHI MENDON
-
-### Full Stack Developer • AI Enthusiast
-
-Building intelligent applications with Java, React.js, FastAPI, and Machine Learning.
-
-<p>
-  <a href="mailto:preethimendon15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/preethi-mendon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/preethi_mendon/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/preethimendon15">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
----
-
-## About
-
-Information Science Engineering student passionate about software engineering, AI, and building products that solve real-world problems.
-
-Currently exploring:
-
-- Full Stack Development
-- Machine Learning
-- Artificial Intelligence
-- Backend Engineering
-- Cloud & DevOps
-
----
-
-## Tech Stack
+<h3 align="center">
+Aspiring Software Engineer | Java Developer | Full Stack Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,react,fastapi,nodejs,mysql,mongodb,docker,linux,git,github,vscode" />
+Passionate about building scalable applications, AI-powered solutions, and solving real-world problems through technology.
 </p>
-
----
-
-## Featured Projects
-
-<a href="https://github.com/PreethiMendon/smart-agriculture-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=smart-agriculture-system&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/PreethiMendon/Email-Spam-Detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=Email-Spam-Detector&theme=github_dark&hide_border=true" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/PreethiMendon/privacy-notes-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=privacy-notes-app&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/PreethiMendon/online-code-editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=online-code-editor&theme=github_dark&hide_border=true" />
-</a>
-
----
-
-## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PreethiMendon&theme=github-dark-blue&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=PreethiMendon&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## Current Focus
+## 🚀 About Me
 
-- Building production-ready applications
-- Strengthening DSA and problem-solving
-- Learning scalable backend systems
-- Exploring AI-powered products
+- 🎓 Information Science & Engineering Student
+- 💻 Passionate about Java, React.js, FastAPI, and Linux
+- 🤖 Interested in AI, Machine Learning, OCR & Computer Vision
+- 🌱 Currently learning Docker, DevOps, and Cloud Technologies
+- 📚 Improving Data Structures & Algorithms skills
+- 🚀 Building projects and gaining hands-on experience
+- ⚡ Always curious to learn new technologies
 
 ---
 
-## Let's Connect
+## 🌐 Connect With Me
 
-📧 preethimendon15@gmail.com
+<p align="left">
 
-🔗 LinkedIn: www.linkedin.com/in/preethi-mendon
+<a href="https://www.linkedin.com/in/preethi-mendon">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💻 LeetCode: leetcode.com/u/preethi_mendon
+<a href="mailto:preethimendon15@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🏆 HackerRank: hackerrank.com/profile/preethimendon15
+<a href="https://leetcode.com/u/preethi_mendon/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/preethimendon15">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🌾 Smart Agriculture System
+Crop recommendation platform using Machine Learning, OCR, FastAPI, and React.js.
+
+🔗 https://github.com/PreethiMendon/smart-agriculture-system
+
+---
+
+### 📧 Email Spam Detector
+Machine Learning application that classifies emails as spam or non-spam.
+
+🔗 https://github.com/PreethiMendon/Email-Spam-Detector
+
+---
+
+### 🔐 Privacy Notes App
+Secure note-taking application focused on privacy and efficient note management.
+
+🔗 https://github.com/PreethiMendon/privacy-notes-app
+
+---
+
+### 💻 Online Code Editor
+Browser-based code editor supporting code writing and execution.
+
+🔗 https://github.com/PreethiMendon/online-code-editor
+
+---
+
+### 🏠 AI-Based Blueprint Analysis
+Computer Vision and OCR-powered system for intelligent house color visualization.
+
+---
+
+### 🤖 Mental Wellness Bot
+AI chatbot designed to provide personalized mental wellness support.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PreethiMendon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethiMendon&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PreethiMendon&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PreethiMendon&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PreethiMendon&theme=tokyo-night"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 💡 Favorite Quote
+
+> "The best way to predict the future is to create it."
+
+---
+
+⭐ From [PreethiMendon](https://github.com/PreethiMendon)
