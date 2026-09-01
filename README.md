@@ -84,30 +84,57 @@ Passionate about building scalable applications, AI-powered solutions, and solvi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
+### 🌾 Smart Agriculture System
+Machine Learning-based crop recommendation platform using OCR, FastAPI, and React.js.
 
 <a href="https://github.com/PreethiMendon/smart-agriculture-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=smart-agriculture-system&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="50%">
+
+### 📧 Email Spam Detector
+Machine Learning application that classifies emails as spam or non-spam.
 
 <a href="https://github.com/PreethiMendon/Email-Spam-Detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=Email-Spam-Detector&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Privacy Notes App
+Secure note-taking application focused on privacy and efficient note management.
 
 <a href="https://github.com/PreethiMendon/privacy-notes-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=privacy-notes-app&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="50%">
+
+### 💻 Online Code Editor
+Browser-based code editor supporting code writing and execution.
 
 <a href="https://github.com/PreethiMendon/online-code-editor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=online-code-editor&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</td>
+</tr>
+</table>
 
 
 ## 🔥 GitHub Streak
