@@ -87,42 +87,27 @@ Passionate about building scalable applications, AI-powered solutions, and solvi
 
 ## 📌 Featured Projects
 
-### 🌾 Smart Agriculture System
-Crop recommendation platform using Machine Learning, OCR, FastAPI, and React.js.
+## 📌 Featured Projects
 
-🔗 https://github.com/PreethiMendon/smart-agriculture-system
+<p align="center">
 
----
+<a href="https://github.com/PreethiMendon/smart-agriculture-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=smart-agriculture-system&theme=tokyonight&hide_border=true" />
+</a>
 
-### 📧 Email Spam Detector
-Machine Learning application that classifies emails as spam or non-spam.
+<a href="https://github.com/PreethiMendon/Email-Spam-Detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=Email-Spam-Detector&theme=tokyonight&hide_border=true" />
+</a>
 
-🔗 https://github.com/PreethiMendon/Email-Spam-Detector
+<a href="https://github.com/PreethiMendon/privacy-notes-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=privacy-notes-app&theme=tokyonight&hide_border=true" />
+</a>
 
----
+<a href="https://github.com/PreethiMendon/online-code-editor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PreethiMendon&repo=online-code-editor&theme=tokyonight&hide_border=true" />
+</a>
 
-### 🔐 Privacy Notes App
-Secure note-taking application focused on privacy and efficient note management.
-
-🔗 https://github.com/PreethiMendon/privacy-notes-app
-
----
-
-### 💻 Online Code Editor
-Browser-based code editor supporting code writing and execution.
-
-🔗 https://github.com/PreethiMendon/online-code-editor
-
----
-
-### 🏠 AI-Based Blueprint Analysis
-Computer Vision and OCR-powered system for intelligent house color visualization.
-
----
-
-### 🤖 Mental Wellness Bot
-AI chatbot designed to provide personalized mental wellness support.
-
+</p>
 
 
 ## 🔥 GitHub Streak
